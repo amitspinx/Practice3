@@ -37,7 +37,7 @@ footer { display:block; clear:both; width:100%; margin:0px; padding:50px 0px; fl
 h1.first { margin:0px; color:red;}
 h1.second { margin:0px; color:green;}
 h1.third { margin:0px; color:blue;}
-h1.forth { margin:0px; color:yellow;}
+h1.forth { margin:0px; color:yellow;display:inline-block}
 
 
 
