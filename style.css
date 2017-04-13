@@ -32,3 +32,13 @@ header .container { position:relative;}
 
 /*** Footer Style here ***/
 footer { display:block; clear:both; width:100%; margin:0px; padding:50px 0px; float:left; border-top:1px solid #ebecec; text-align:center;}
+
+/*** Merge all those 4 commit into one commit message ***/
+h1.first { margin:0px; color:red;}
+h1.second { margin:0px; color:green;}
+h1.third { margin:0px; color:blue;}
+h1.forth { margin:0px; color:yellow;}
+
+
+
+
